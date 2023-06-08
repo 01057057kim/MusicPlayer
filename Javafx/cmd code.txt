@@ -1,0 +1,25 @@
+C:\Users\kimpo\OneDrive\Desktop\Kuliah\Semester 4\Java\Java project\Javafx\src java --module-path C:\Users\kimpo\Downloads\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib --add-modules javafx.controls,javafx.media -cp bin MusicPlayer
+
+javac --module-path C:\Users\kimpo\Downloads\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib --add-modules javafx.controls,javafx.media -d bin MusicPlayer
+
+
+
+javac --module-path C:\Users\kimpo\Downloads\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib --add-modules javafx.controls,javafx.media,javafx.fxml -d bin MusicPlayer.java   
+ 
+java --module-path C:\Users\kimpo\Downloads\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib --add-modules javafx.controls,javafx.media,javafx.fxml -cp bin MusicPlayer
+
+
+javac --module-path (JAVAFX JAR PATH \lib) --add-modules javafx.controls,javafx.media,javafx.fxml -d bin MusicPlayer.java   
+java --module-path(JAVAFX JAR PATH \lib) --add-modules javafx.controls,javafx.media,javafx.fxml -cp bin MusicPlayer
+
+java --module-path C:\Users\kimpo\Downloads\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib --add-modules javafx.controls,javafx.media,javafx.fxml -jar MusicPlayer.jar
+
+AIzaSyDV_dfDm9WEDtbUgtYIh0FgDmCv0kGnJ6o (youtube api key)
+
+
+drive link https://drive.google.com/file/d/1cJ_5tRXyHRmAqIewNIRBE-YFSTd9aZfs/view?usp=sharing
+youtube link https://youtu.be/22MVv1zyI9U
+
+
+
+javac --module-path C:\Users\kimpo\Downloads\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib--add-modules javafx.controls,javafx.media,javafx.fxml -d bin MusicPlayer.java

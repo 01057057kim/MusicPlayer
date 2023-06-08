@@ -1,0 +1,2 @@
+Main-Class: MusicPlayer
+Class-Path: lib/javafx.controls.jar lib/javafx.media.jar lib/javafx.fxml.jar
